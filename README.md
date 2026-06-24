@@ -11,7 +11,7 @@ This repository documents my journey learning LangGraph and Agentic AI.
 
 ## Project setup environment
 - TypeDict
-- 
+- State
   
 
 ## Technologies
