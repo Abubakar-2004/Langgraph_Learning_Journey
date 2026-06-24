@@ -9,6 +9,10 @@ This repository documents my journey learning LangGraph and Agentic AI.
 - Compile
 - Run/Invoke
 
+## Project setup environment
+- TypeDict
+  
+
 ## Technologies
 - Python
 - LangGraph
