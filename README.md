@@ -21,3 +21,5 @@ This repository documents my journey learning LangGraph and Agentic AI.
 
 ## Author
 Abubakar J
+
+## First Application 
