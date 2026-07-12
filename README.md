@@ -23,4 +23,4 @@ This repository documents my journey learning LangGraph and Agentic AI.
 Abubakar J
 
 ## First Application Setup
-not yet setted up
+not yet setted 
