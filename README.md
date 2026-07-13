@@ -1,4 +1,4 @@
-# LangGraph Learning Journey
+# LangGraph Learning Journey 🤖
 
 This repository documents my journey learning LangGraph and Agentic AI.
 
