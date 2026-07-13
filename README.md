@@ -15,7 +15,7 @@ This repository documents my journey learning LangGraph and Agentic AI.
   
 
 ## Technologies
-- Python
+- Python🐍
 - LangGraph
 - LangChain
 
